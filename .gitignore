@@ -1,0 +1,7 @@
+# Секреты и локальные файлы не попадают на GitHub
+.env
+bot.log
+stats.db
+stats.db-wal
+stats.db-shm
+__pycache__/
